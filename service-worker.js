@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Prime-Rotation-Fields/precache-manifest.47fb91922448430c93e95a891139a2b0.js"
+  "/Prime-Rotation-Fields/precache-manifest.e6e8e99abda4abea65df22b022e376be.js"
 );
 
 self.addEventListener('message', (event) => {
