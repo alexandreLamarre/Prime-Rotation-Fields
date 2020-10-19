@@ -15,7 +15,7 @@ class CustomCanvas extends React.Component{
       num_primes:500,
       primes: [],
       points: [],
-      degree: 1,
+      degree: 90,
       scale: 1,
       dragging:false,
       mouseX: 0,
