@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Prime-Rotation-Fields/static/css/main.a7ee3ebd.chunk.css",
+    "main.js": "/Prime-Rotation-Fields/static/js/main.5904525c.chunk.js",
+    "main.js.map": "/Prime-Rotation-Fields/static/js/main.5904525c.chunk.js.map",
+    "runtime-main.js": "/Prime-Rotation-Fields/static/js/runtime-main.c4f92673.js",
+    "runtime-main.js.map": "/Prime-Rotation-Fields/static/js/runtime-main.c4f92673.js.map",
+    "static/js/2.c99167b5.chunk.js": "/Prime-Rotation-Fields/static/js/2.c99167b5.chunk.js",
+    "static/js/2.c99167b5.chunk.js.map": "/Prime-Rotation-Fields/static/js/2.c99167b5.chunk.js.map",
+    "index.html": "/Prime-Rotation-Fields/index.html",
+    "precache-manifest.47fb91922448430c93e95a891139a2b0.js": "/Prime-Rotation-Fields/precache-manifest.47fb91922448430c93e95a891139a2b0.js",
+    "service-worker.js": "/Prime-Rotation-Fields/service-worker.js",
+    "static/css/main.a7ee3ebd.chunk.css.map": "/Prime-Rotation-Fields/static/css/main.a7ee3ebd.chunk.css.map",
+    "static/js/2.c99167b5.chunk.js.LICENSE.txt": "/Prime-Rotation-Fields/static/js/2.c99167b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f92673.js",
+    "static/js/2.c99167b5.chunk.js",
+    "static/css/main.a7ee3ebd.chunk.css",
+    "static/js/main.5904525c.chunk.js"
+  ]
+}
